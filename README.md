@@ -15,4 +15,4 @@ An interactive web platform for managing clients and services, built with HTML, 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mhluri-Baloyi/Adrs-Client-Portal.git
